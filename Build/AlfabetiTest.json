@@ -1,0 +1,15 @@
+{
+"companyName": "Guri Rugova",
+"productName": "Mëso Alfabetin",
+"productVersion": "0.8a",
+"dataUrl": "AlfabetiTest.data.unityweb",
+"wasmCodeUrl": "AlfabetiTest.wasm.code.unityweb",
+"wasmFrameworkUrl": "AlfabetiTest.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
